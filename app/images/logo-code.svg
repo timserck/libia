@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="45px" height="45px" viewBox="0 0 45 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5 (25232) - http://www.bohemiancoding.com/sketch -->
+    <title>logo-code</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="logo-code" sketch:type="MSLayerGroup" fill="#FFFFFF">
+            <circle id="Oval" sketch:type="MSShapeGroup" cx="16.3064516" cy="9.30645161" r="1.30645161"></circle>
+            <path d="M20.5080645,9 C20.2177419,9 20,9.21774194 20,9.50806452 C20,9.7983871 20.2177419,10.016129 20.5080645,10.016129 C20.7983871,10.016129 21.016129,9.7983871 21.016129,9.50806452 C20.9798387,9.21774194 20.7620968,9 20.5080645,9 L20.5080645,9 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M1.33420304,1.33420304 L9.6960982,1.33420304 L9.6960982,0 L0,0 L0,9.6960982 L1.33420304,9.6960982 L1.33420304,1.33420304 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M35,0 L35,1.33420304 L43.3623399,1.33420304 L43.3623399,9.6960982 L44.6965429,9.6960982 L44.6965429,0 L35,0 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M1.33420304,35 L0,35 L0,44.6960982 L9.69565346,44.6960982 L9.69565346,43.3618952 L1.33420304,43.3618952 L1.33420304,35 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M43.3623399,43.3618952 L35,43.3618952 L35,44.6960982 L44.6965429,44.6960982 L44.6965429,35 L43.3623399,35 L43.3623399,43.3618952 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M30.6169355,6 L13.8508065,6 C12.8243611,6 12,6.82436112 12,7.85080645 L12,37.8991935 C12,38.9256389 12.8243611,39.75 13.8508065,39.75 L30.6169355,39.75 C31.6433808,39.75 32.4677419,38.9256389 32.4677419,37.8991935 L32.4677419,7.85080645 C32.4677419,6.82436112 31.6433808,6 30.6169355,6 Z M30.6169355,7.08870968 C31.0421031,7.08870968 31.3790323,7.42563888 31.3790323,7.85080645 L31.3790323,37.8991935 C31.3790323,38.3243611 31.0421031,38.6612903 30.6169355,38.6612903 L13.8508065,38.6612903 C13.4256389,38.6612903 13.0887097,38.3243611 13.0887097,37.8991935 L13.0887097,7.85080645 C13.0887097,7.42563888 13.4256389,7.08870968 13.8508065,7.08870968 L30.6169355,7.08870968 Z" id="Path" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
